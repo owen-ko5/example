@@ -5,5 +5,11 @@ h1{
     color:black;
 }
 h3{
-    color: rgb(255, 0, 183);
+    color: #f602e2;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+    border-radius: 50%;
 }
